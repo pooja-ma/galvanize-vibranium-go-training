@@ -26,7 +26,7 @@ title: Vibranium - Go training
 
 - Install in a location apart from C (https://golang.org/doc/install)
 - In Environment variables: - Set new variable 'GOPATH': pointing to installation folder/workspace folder
-- Under system variables: Add the 'gofolder'\bin 
+- Under system variables: Under path Add the 'gofolder'\bin 
 ![](./images/variables.png)
 ---
 ## Alternatively use online go playground
